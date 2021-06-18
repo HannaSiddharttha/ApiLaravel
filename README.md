@@ -1,9 +1,13 @@
 # ApiLaravel
-Parcial2
 
-Instrucciones para correr la Api
+PARCIAL 3 - ORDINARIO
+
+INSTRUCCIONES DE LA API
 
 Descargar toda la carpeta del repositorio de Git:
+https://github.com/HannaSiddharttha/ApiLaravel.git
+
+Abrir el panel de control de XAMPP y correr Apache y MySQL
 
 Primero descargar el compose en el siguiente link:
 https://getcomposer.org/
@@ -20,3 +24,11 @@ Desde esa ubicación se pueden hacer pruebas, por ejemplo localhost/{nombre de p
 una lista de productos.
 
 De igual manera para probar en Postman se tendria que poner 127.0.0.1/{nombre del proyecto}/public.
+
+INSTRUCCCIONES DE REACT
+
+De la carpeta de FIREBASE descargar el codigo en el ambiente de trabajo
+
+En caso de que la carpeta node_modules no exista ejecutar el comando npm install para instalar los componentes
+
+Una vez instalado solo se corre con el comando nmp start
