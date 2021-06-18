@@ -27,7 +27,7 @@ De igual manera para probar en Postman se tendria que poner 127.0.0.1/{nombre de
 
 INSTRUCCCIONES DE REACT
 
-Descargar el codigo en el ambiente de trabajo
+De la carpeta de FIREBASE descargar el codigo en el ambiente de trabajo
 
 En caso de que la carpeta node_modules no exista ejecutar el comando npm install para instalar los componentes
 
